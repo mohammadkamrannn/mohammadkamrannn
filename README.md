@@ -1,7 +1,7 @@
 
 <div align="left"><img width="80px" height="auto" src="./assets/images/mkamran.png" alt=""> <h6>Welcome!<br>I'm Mohammad Kamran<br>This is a my github profile.</h6></div>
 <hr width="50%">
-<h3><img width="20px" height="auto" src="./assets/images/html-5.png" alt=""> HTML 100%</h3>
+<h4><img width="20px" height="auto" src="./assets/images/html-5.png" alt=""> HTML 100%</h4>
 <h3><img width="20px" height="auto" src="./assets/images/css-3.png" alt=""> CSS 100%</h3>
 <h3><img width="20px" height="auto" src="./assets/images/js.png" alt=""> JavaScript 60%</h3>
 <h3><img width="20px" height="auto" src="./assets/images/bootstrap.png" alt=""> Bootstrap 90%</h3>
