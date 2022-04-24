@@ -1,5 +1,5 @@
 
-<div align="left"><img width="80px" height="auto" src="./assets/images/mkamran.jpg" alt=""> <span>Welcome!<br>I'm Mohammad Kamran</span></div>
+<div align="left"><img width="80px" height="auto" src="./assets/images/mkamran.jpg" alt=""> <div>Welcome!<br>I'm Mohammad Kamran</div></div>
 <h4>This is a my github profile.</h4>
 <hr width="50%">
 <h3><img width="20px" height="auto" src="./assets/images/html-5.png" alt=""> HTML 100%</h3>
