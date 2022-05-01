@@ -1,4 +1,3 @@
-<img width="80px" height="auto" src="./assets/images/mkamran.png" alt="">
 <div align="left"><h6>Welcome!<br>I'm Mohammad Kamran<br>This is a my github profile.</h6></div>
 <h3>Programming skills</h3>
 <hr width="50%">
